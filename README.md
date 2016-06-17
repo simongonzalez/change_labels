@@ -17,9 +17,9 @@ In the case of the labels, the script substitutes the labels following the same 
 
 As a user, I want to change ASCII labels to Lexical Sets in TextGrid A located in tier 2.
 
-The ASCII labels are: i E { U.
+The ASCII labels are: i E { U. Labels MUST be separated by single spaces.
 
-The Lexical Sets are: FLEECE DRESS TRAP FOOT.
+The Lexical Sets are: FLEECE DRESS TRAP FOOT. Labels MUST be separated by single spaces.
 
 If labels are entered in this order, all 'i' labels will change to 'FLEECE', 'E' to 'DRESS' and so on.
 
