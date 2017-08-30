@@ -3,7 +3,7 @@ This script is distributed under the GNU General Public License.
 
 Copyright 09.06.2016 Simon Gonzalez
 
-email: s.gonzalez@griffith.edu.au
+email: simon.gonzalez@anu.edu.au
 
 # change_labels
 Labelling change in TextGrid objects
